@@ -1,0 +1,7 @@
+{
+  "name": "cache-chaud",
+  "version": "0.1.0",
+  "description": "Garde le cache d'une conversation au chaud pendant les pauses (jusqu'à 7 h) et prévient quand il a expiré.",
+  "author": { "name": "Nicolas Duvillard" },
+  "license": "MIT"
+}
